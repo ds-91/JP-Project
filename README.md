@@ -10,7 +10,7 @@
 		- [ ] Identify key features of the Java language
 
 ## Week 2 (9/9)
-1. JP Project
+1. **JP Project**
 	- [x] Create 'Engine' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -22,7 +22,7 @@
 		- [ ] Manipulate data using the StringBuilder class and its methods
 
 ## Week 3 (9/16)
-1. JP Project
+1. **JP Project**
 	- [x] Create 'VehicleChassis' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -31,7 +31,7 @@
 		- [ ] Declare, instantiate, initialize and use a two-dimensional array
 
 ## Week 4 (9/23)
-1. JP Project
+1. **JP Project**
 	- [x] Create 'VehicleFrame' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -41,7 +41,7 @@
 		- [ ] Apply the static keyword to methods and fields
 
 ## Week 5 (9/30)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'ManufacturedEngine' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -53,7 +53,7 @@
 		- [ ] Distinguish overloading, overriding, and hiding
 
 ## Week 6 (10/7)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'Feature' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -63,7 +63,7 @@
 		- [ ] Create and invoke a method that throws an exception
 
 ## Week 7 (10/14)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'InteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -73,7 +73,7 @@
 		- [ ] Create and import packages
 
 ## Week 8 (10/21)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'ExteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -83,7 +83,7 @@
 		- [ ] Create and use do/while, while, for and for each loops, including nested loops, use break and continue statements
 
 ## Week 9 (10/28)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'Vehicle' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -93,7 +93,7 @@
 		- [ ] Read or write to object fields
 
 ## Week 10 (11/4)
-1. JP Project
+1. **JP Project**
 	- [ ] Create 'Car' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -102,7 +102,7 @@
 		- [ ] Apply encapsulation principles to a class
 
 ## Week 11 (11/11)
-1. JP Project
+1. **JP Project**
 	- [ ] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -113,7 +113,7 @@
 		- [ ] Understanding Lambda Expressions
 
 ## Week 12 (11/18)
-1. JP Project
+1. **JP Project**
 	- [ ] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
@@ -123,21 +123,21 @@
 		- [ ] Describe how a modular project is compiled and run
 
 ## Week 13 (11/25)
-1. JP Project
+1. **JP Project**
 	- [ ] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] ???
 
 ## Week 14 (12/2)
-1. JP Project
+1. **JP Project**
 	- [ ] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] ???
 
 ## Week 15 (12/9 - Submission)
-1. JP Project
+1. **JP Project**
 	- [ ] Submit Project
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
