@@ -5,7 +5,7 @@
 	- [x] Create 'chassis' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Understanding Java Technology and Environment'
+	- [x] Study 'Understanding Java Technology and Environment'
 		- Describe Java Technology and the Java development
 		- Identify key features of the Java language
 
@@ -14,7 +14,7 @@
 	- [x] Create 'Engine' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Working with Java Primitive Data Types and String APIs'
+	- [x] Study 'Working with Java Primitive Data Types and String APIs'
 		- Declare and initialize variables (including casting and promoting primitives)
 		- Identify the scope of variables
 		- Use local variable type inference
@@ -26,7 +26,7 @@
 	- [x] Create 'VehicleChassis' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Working with Java Arrays'
+	- [x] Study 'Working with Java Arrays'
 		- Declare, instantiate, initialize and use a one-dimensional array
 		- Declare, instantiate, initialize and use a two-dimensional array
 
@@ -35,7 +35,7 @@
 	- [x] Create 'VehicleFrame' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Creating and Using Methods'
+	- [x] Study 'Creating and Using Methods'
 		- Create methods and constructors with arguments and return values
 		- Create and invoke overloaded methods
 		- Apply the static keyword to methods and fields
