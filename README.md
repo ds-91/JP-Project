@@ -42,7 +42,7 @@
 
 ## Week 5 (9/30)
 1. **JP Project**
-	- [ ] Create 'ManufacturedEngine' class
+	- [x] Create 'ManufacturedEngine' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] Study 'Reusing Implementations Through Inheritance'
