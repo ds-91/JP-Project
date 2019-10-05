@@ -45,7 +45,7 @@
 	- [x] Create 'ManufacturedEngine' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Reusing Implementations Through Inheritance'
+	- [x] Study 'Reusing Implementations Through Inheritance'
 		- Create and use subclasses and superclasses
 		- Create and extend abstract classes
 		- Enable polymorphism by overriding methods
@@ -54,7 +54,7 @@
 
 ## Week 6 (10/7)
 1. **JP Project**
-	- [ ] Create 'Feature' interface
+	- [x] Create 'Feature' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] Study 'Handling Exceptions'
@@ -64,7 +64,7 @@
 
 ## Week 7 (10/14)
 1. **JP Project**
-	- [ ] Create 'InteriorFeature' class
+	- [x] Create 'InteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] Study 'Creating a Simple Java Program'
