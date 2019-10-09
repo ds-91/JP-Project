@@ -74,7 +74,7 @@
 
 ## Week 8 (10/21)
 1. **JP Project**
-	- [ ] Create 'ExteriorFeature' class
+	- [x] Create 'ExteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] Study 'Using Operators and Decision Constructs'
@@ -84,7 +84,7 @@
 
 ## Week 9 (10/28)
 1. **JP Project**
-	- [ ] Create 'Vehicle' class
+	- [x] Create 'Vehicle' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
 	- [ ] Study 'Describing and Using Objects and Classes'
