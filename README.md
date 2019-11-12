@@ -57,7 +57,7 @@
 	- [x] Create 'Feature' interface
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Handling Exceptions'
+	- [x] Study 'Handling Exceptions'
 		- Describe the advantages of Exception handling and differentiate among checked, unchecked, exceptions, and errors
 		- Create try-catch blocks and determine how exceptions alter program flow
 		- Create and invoke a method that throws an exception
@@ -67,7 +67,7 @@
 	- [x] Create 'InteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Creating a Simple Java Program'
+	- [x] Study 'Creating a Simple Java Program'
 		- Create an executable Java program with a main class
 		- Compile and run a Java program from the command line
 		- Create and import packages
@@ -77,7 +77,7 @@
 	- [x] Create 'ExteriorFeature' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Using Operators and Decision Constructs'
+	- [x] Study 'Using Operators and Decision Constructs'
 		- Use Java operators including the use of parnethesis to override operator precendence
 		- Use Java control statements including if, if/else, switch
 		- Create and use do/while, while, for and for each loops, including nested loops, use break and continue statements
@@ -87,17 +87,17 @@
 	- [x] Create 'Vehicle' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Describing and Using Objects and Classes'
+	- [x] Study 'Describing and Using Objects and Classes'
 		- Declare and instantiate Java objects, and explain objects' lifecycles
 		- Define the structure of a Java class
 		- Read or write to object fields
 
 ## Week 10 (11/4)
 1. **JP Project**
-	- [ ] Create 'Car' class
+	- [x] Create 'Car' class
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Applying Encapsulation'
+	- [x] Study 'Applying Encapsulation'
 		- Apply access modifiers
 		- Apply encapsulation principles to a class
 
