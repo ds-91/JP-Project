@@ -3,7 +3,7 @@ public class InteriorFeature implements Feature {
   private String feature;
 
   public InteriorFeature() {
-    this.feature = "Generic";
+    this.feature = "No Interior Features";
   }
 
   public InteriorFeature(String feature) {

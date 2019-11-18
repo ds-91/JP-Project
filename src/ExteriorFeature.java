@@ -3,7 +3,7 @@ public class ExteriorFeature implements Feature {
   private String exteriorFeature;
 
   public ExteriorFeature() {
-    this.exteriorFeature = "Generic";
+    this.exteriorFeature = "No Exterior Features";
   }
 
   public ExteriorFeature(String exteriorFeature) {

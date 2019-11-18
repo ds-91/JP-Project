@@ -17,14 +17,17 @@ public class Vehicle implements Engine, Chassis {
     this.vehicleMake = "Generic";
     this.vehicleModel = "Generic";
     this.vehicleFrame = new VehicleFrame();
-    this.vehicleType = "None";
-    this.driveTrain = "2WD: Two-Wheel Drive";
+    this.vehicleType = "Generic";
+    // The 'whats wrong' shows that driveTrain should be 2WD: Two-Wheel Drive,
+    // but the instructions on the right show that this should be Generic.
+    // Not sure which to use so I will follow the instructions on the right.
+    this.driveTrain = "Generic";
     this.vehicleEngine = new ManufacturedEngine();
   }
 
   public Vehicle(Date vehicleManufacturedDate, String vehicleManufacturer,
-      String vehicleMake, String vehicleModel, Chassis vehicleFrame, String vehicleType,
-      String driveTrain, Engine vehicleEngine) {
+      String vehicleMake, String vehicleModel, Chassis vehicleFrame,
+      String vehicleType,String driveTrain, Engine vehicleEngine) {
     this.vehicleManufacturedDate = vehicleManufacturedDate;
     this.vehicleManufacturer = vehicleManufacturer;
     this.vehicleMake = vehicleMake;
@@ -142,11 +145,11 @@ public class Vehicle implements Engine, Chassis {
 
   @Override
   public String toString() {
-    return "Manufacturer Name\t\t\t : " + getVehicleManufacturer() + "\n" +
-        "Manufactured Date\t\t\t : " + getVehicleManufacturedDate() + "\n" +
-        "Vehicle Make\t\t\t\t\t : " + getVehicleMake() + "\n" +
-        "Vehicle Model\t\t\t\t\t : " + getVehicleModel() + "\n" +
-        "Vehicle Type\t\t\t\t\t : " + getVehicleType() + "\n" + vehicleEngine.toString();
+    return "Manufacturer Name : " + getVehicleManufacturer() + "\n" +
+        "Manufactured Date : " + getVehicleManufacturedDate() + "\n" +
+        "Vehicle Make : " + getVehicleMake() + "\n" +
+        "Vehicle Model : " + getVehicleModel() + "\n" +
+        "Vehicle Type : " + getVehicleType() + "\n" + vehicleEngine.toString();
   }
 
   public static void main(String[] args) {
@@ -154,7 +157,7 @@ public class Vehicle implements Engine, Chassis {
     System.out.println(defaultVehicle.toString());
 
     VehicleChassis vc = new VehicleChassis("Sample Chassis");
-    ManufacturedEngine me = new ManufacturedEngine("Honda", new Date(2001, 10, 10), "Honda", "H23A1", 4, "88 AKI", "2WD: Two-Wheel Drive");
+    ManufacturedEngine me = new ManufacturedEngine("Honda", new Date(2001, 10, 10), "Honda", "H23A1", "2WD: Two-Wheel Drive", 4, "88 AKI");
 
     Vehicle definedVehicle = new Vehicle(new Date(2019, 2, 15), "Honda", "Honda", "Prelude", vc, "Type", "AWD", me);
     System.out.println(definedVehicle.toString());

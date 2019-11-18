@@ -15,14 +15,14 @@ public class ManufacturedEngine implements Engine {
     this.engineManufacturedDate = new Date(2012, 2, 2);
     this.engineMake = "Generic";
     this.engineModel = "Generic";
-    this.engineType = "85 AKI";
+    this.engineType = "Generic";
     this.engineCylinders = 0;
     this.driveTrain = "2WD: Two-Wheel Drive";
   }
 
   public ManufacturedEngine(String engineManufacturer, Date engineManufacturedDate,
-      String engineMake, String engineModel, int engineCylinders, String engineType,
-      String driveTrain) {
+      String engineMake, String engineModel, String engineType,
+      int engineCylinders,String driveTrain) {
     this.engineManufacturer = engineManufacturer;
     this.engineManufacturedDate = engineManufacturedDate;
     this.engineMake = engineMake;
@@ -69,20 +69,21 @@ public class ManufacturedEngine implements Engine {
 
   @Override
   public String toString() {
-    return "Engine Manufacturer \t : " + this.engineManufacturer + "\n" +
-        "Engine Manufactured \t : " + this.engineManufacturedDate.toString() + "\n" +
-        "Engine Make \t\t\t\t\t : " + this.engineMake + "\n" +
-        "Engine Model \t\t\t\t\t : " + this.engineModel + "\n" +
-        "Engine Type \t\t\t\t\t : " + this.engineType + "\n" +
-        "Engine Cylinders \t\t\t : " + this.engineCylinders + "\n" +
-        "Drive Train \t\t\t\t\t : " + this.driveTrain + "\n";
+    return "Engine Manufacturer : " + this.engineManufacturer + "\n" +
+        "Engine Manufactured : " + this.engineManufacturedDate.toString() + "\n"+
+        "Engine Make : " + this.engineMake + "\n" +
+        "Engine Model : " + this.engineModel + "\n" +
+        "Engine Type : " + this.engineType + "\n" +
+        "Engine Cylinders : " + this.engineCylinders + "\n" +
+        "Drive Train : " + this.driveTrain + "\n";
   }
 
   public static void main(String[] args) {
     ManufacturedEngine genericEngine = new ManufacturedEngine();
-    ManufacturedEngine specificEngine = new ManufacturedEngine("Honda",
-        new Date(2012, 1, 3), "H-Series", "H23A1",
-        4, "88 AKI", "2WD: Two-Wheel Drive");
+    ManufacturedEngine specificEngine = new ManufacturedEngine("Honda", new Date()
+        , "H-Series", "H23A1"
+        , "2WD: Two-Wheel Drive", 4
+        , "88 AKI");
 
     // Print generic engine
     System.out.println(genericEngine.toString());

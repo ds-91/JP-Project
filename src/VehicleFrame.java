@@ -22,7 +22,7 @@ public class VehicleFrame implements Chassis {
 
     @Override
     public String toString() {
-        return "Vehicle Frame\t\t : " + this.vehicleFrameType;
+        return "Vehicle Frame : " + this.vehicleFrameType;
     }
 
     public static void main(String[] args) {

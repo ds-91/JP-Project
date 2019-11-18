@@ -25,7 +25,7 @@ public class Car extends Vehicle {
     StringBuilder sb = new StringBuilder();
     for (Feature f : feature) {
       if (f instanceof ExteriorFeature) {
-        sb.append(f + "\n" + "\t\t\t\t\t\t\t\t\t\t\t\t ");
+        sb.append(f + "\n");
       }
     }
     return sb.toString();
@@ -35,7 +35,7 @@ public class Car extends Vehicle {
     StringBuilder sb = new StringBuilder();
     for (Feature f : feature) {
       if (f instanceof InteriorFeature) {
-        sb.append(f + "\n" + "\t\t\t\t\t\t\t\t\t\t\t\t ");
+        sb.append(f + "\n");
       }
     }
     return sb.toString();
@@ -43,8 +43,8 @@ public class Car extends Vehicle {
 
   @Override
   public String toString() {
-    return super.toString() + "Features \t\t\t\t\t\t\t : " + this.getInteriorFeatures() + "\n"
-        + "\t\t\t\t\t\t\t\t\t\t\t : " + this.getExteriorFeatures() + "\nCar Axle: " + this.carAxle;
+    return super.toString() + "Features :\n" + this.getInteriorFeatures()
+        + this.getExteriorFeatures() + "Car Axle: " + this.carAxle;
   }
 
   public static void main(String[] args) {
@@ -60,7 +60,7 @@ public class Car extends Vehicle {
 
     Feature[] features = {radio, ac, woodPanels, roof};
     VehicleFrame vf = new VehicleFrame();
-    ManufacturedEngine me = new ManufacturedEngine("Honda", new Date(2019, 2, 2), "H-Series", "H23A1", 4, "88 AKI", "2WD: Two-Wheel Drive");
+    ManufacturedEngine me = new ManufacturedEngine("Honda", new Date(2019, 2, 2), "H-Series", "H23A1", "2WD: Two-Wheel Drive", 4, "88 AKI");
     VehicleChassis vc = new VehicleChassis();
     Vehicle v = new Vehicle(new Date(2019, 2, 2), "Honda", "Honda", "Prelude", null, null, "2WD: Two-Wheel Drive", me);
     Car fullCar = new Car(v.getVehicleManufacturedDate(), v.getVehicleManufacturer(), v.getVehicleMake(), v.getVehicleModel(), vf.getChassisType(), v.getVehicleType(), v.getDriveTrain(), me, features, 2);
