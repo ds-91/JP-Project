@@ -103,10 +103,10 @@
 
 ## Week 11 (11/11)
 1. **JP Project**
-	- [ ] ???
+	- [x] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Programming Abstractly Through Interfaces'
+	- [x] Study 'Programming Abstractly Through Interfaces'
 		- Create and implement interfaces
 		- Distinguish class inheritance from interface inheritance including abstract classes
 		- Declare and use List and ArrayList instances
@@ -114,31 +114,31 @@
 
 ## Week 12 (11/18)
 1. **JP Project**
-	- [ ] ???
+	- [x] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Study 'Understanding Modules'
+	- [x] Study 'Understanding Modules'
 		- Describe the Modular JDK
 		- Declare modules and enable access between modules
 		- Describe how a modular project is compiled and run
 
 ## Week 13 (11/25)
 1. **JP Project**
-	- [ ] ???
+	- [x] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] ???
+	- [x] ???
 
 ## Week 14 (12/2)
 1. **JP Project**
-	- [ ] ???
+	- [x] ???
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] ???
+	- [x] ???
 
 ## Week 15 (12/9 - Submission)
 1. **JP Project**
-	- [ ] Submit Project
+	- [x] Submit Project
 
 2. [Certification Exam Topics](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815)
-	- [ ] Take exam (on / before)
+	- [x] Take exam (on / before)
